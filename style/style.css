@@ -1,0 +1,9 @@
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://i.postimg.cc/N03wr1Vs/pexels-erik-mclean-5516096.jpg);
+    background-size: cover;
+}
